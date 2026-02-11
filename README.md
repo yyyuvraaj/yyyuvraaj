@@ -14,7 +14,7 @@ or by following these links:
 
 I’m always open to collaborating on exciting ideas or learning from others in the community.
 
-📫 You can reach me at [Email me](mailto:yuv03raj09@gmail.com) 👈
+📫 You can reach me at [yuv03raj09@gmail.com](mailto:yuv03raj09@gmail.com) 👈
 
 <!--
 **yyyuvraaj/yyyuvraaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
